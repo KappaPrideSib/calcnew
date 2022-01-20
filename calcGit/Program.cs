@@ -16,7 +16,7 @@ namespace calcGit
             switch (Convert.ToInt32(Console.ReadLine()))
             {
                 case 1:
-                    Console.ReadLine();
+                    a=Convert.ToInt32(Console.ReadLine());
                     break;
             }
         }
