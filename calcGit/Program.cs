@@ -27,6 +27,9 @@ namespace calcGit
                 case 4:
                     Console.WriteLine(a - b);
                     break;
+                case 5:
+                    Console.WriteLine(a * b);
+                    break;
             }
         }
     }
