@@ -16,12 +16,17 @@ namespace calcGit
             switch (Convert.ToInt32(Console.ReadLine()))
             {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 case 1:
                     a=Convert.ToInt32(Console.ReadLine());
 =======
                 case 2:
                     b = Convert.ToInt32(Console.ReadLine());
 >>>>>>> binp
+=======
+                case 3:
+                    Console.WriteLine(a + b);
+>>>>>>> plus
                     break;
             }
         }
