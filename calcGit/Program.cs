@@ -15,7 +15,6 @@ namespace calcGit
             Console.WriteLine("- ввести A - ввести B - выполнить операцию «+» -выполнить операцию «-» -выполнить операцию «*» -выполнить операцию «/»");
             switch (Convert.ToInt32(Console.ReadLine()))
             {
-<<<<<<< HEAD
                 case 1:
                     a=Convert.ToInt32(Console.ReadLine());
                     break;
@@ -30,10 +29,9 @@ namespace calcGit
                     break;
                 case 5:
                     Console.WriteLine(a * b);
-=======
+                    break;
                 case 6:
                     Console.WriteLine(a / b);
->>>>>>> div
                     break;
             }
         }
